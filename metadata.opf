@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59a38df1-34f4-49a3-8b96-919d50997e04</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59a38df1-34f4-49a3-8b96-919d50997e04</dc:identifier>
+        <dc:title>自分を見つめる心理学 (PHP文庫)</dc:title>
+        <dc:creator opf:file-as="諦三, 加藤" opf:role="aut">加藤 諦三</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-04-14T15:00:00+00:00</dc:date>
+        <dc:publisher>株式会社ＰＨＰ研究所</dc:publisher>
+        <dc:language>ja</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>
