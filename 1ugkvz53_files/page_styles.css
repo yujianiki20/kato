@@ -1,0 +1,9 @@
+@page {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+@font-face {
+  font-family: "UD Digi Kyokasho NK-R";
+  panose-1: 2 2 4 0 0 0 0 0 0 0;
+  src: url(fonts/UD-Digi-Kyokasho-NK-R.ttf);
+}
